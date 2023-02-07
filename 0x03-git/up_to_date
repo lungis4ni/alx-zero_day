@@ -1,1 +1,4 @@
+git pull origin main
 echo 'Collaboration: be up to date' > README.md
+git commit -am "How to be up to date in git"
+git push
